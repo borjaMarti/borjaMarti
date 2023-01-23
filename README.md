@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://borjamarti.netlify.app/](https://borjamarti.netlify.app/)
 
-- 📫 How to reach me **borjamarti@outlook.com**
+- 📫 You can reach me at **borjamarti@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
