@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **an educational tool to help teachers develop their student's spaced repetition.**
 
-- 🌱 I’m currently learning **Node.js**
+- 📖 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://borjamarti.netlify.app/](https://borjamarti.netlify.app/)
+- 💻 All of my projects are available at [https://borjamarti.netlify.app/](https://borjamarti.netlify.app/)
 
 - 📫 You can reach me at **borjamarti@outlook.com**
 
