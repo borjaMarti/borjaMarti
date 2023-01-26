@@ -22,7 +22,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Art Dose</h3>
         <br />
         <a target="_blank" href="https://borjamarti.github.io/artDose/">
             <img src="assets/artDose.gif" width="50%" alt="Gif showing app functionality and design."/>
