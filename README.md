@@ -40,5 +40,5 @@
       <ul font-variant="smallcaps">
             <li>JavaScript</li>
       </ul>
-        <p>Explore and draw inspiration with random pieces of art from The Metropolitan Museum of New York's collection!</p>
+        <span>Explore and draw inspiration with random pieces of art from The Metropolitan Museum of New York's collection!</span>
     </td>
