@@ -31,10 +31,10 @@
         <p align="center">
           
   <a href="https://github.com/borjaMarti/artDose" target="_blank">
-    <img width="15px" src="https://www.svgrepo.com/show/473620/github.svg"/>
+    <img src="assets/github-svgrepo-com.svg"/>
   </a>  
   <a href="https://borjamarti.github.io/artDose/" target="_blank">
-    <img width="15px" src="https://www.svgrepo.com/show/473620/github.svg"/>
+    <img src="assets/new-window-svgrepo-com.svg"/>
   </a>
       </p>
       <ul font-variant="smallcaps">
