@@ -21,7 +21,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Art Dose</h3>
         <br />
         <a target="_blank" href="https://borjamarti.github.io/artDose/" align="center">
