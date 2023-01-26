@@ -9,6 +9,32 @@
 
 - 📫 You can reach me at **borjamarti@outlook.com**
 
+<h1>Project Showcase</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travelara.org</h3>
+        <br />
+        <a target="_blank" href="https://borjamarti.github.io/artDose/">
+            <img src="assets/artDose.gif" width="100%" alt="Gif showing app functionality and design."/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/borjaMarti/artDose" target="_blank">
+    <img src="https://www.svgrepo.com/show/473620/github.svg"/>
+  </a>  
+  <a href="https://borjamarti.github.io/artDose/" target="_blank">
+    <img src="https://www.svgrepo.com/show/374989/new-window.svg"/>
+  </a>
+      </p>
+      <ul font-variant="smallcaps">
+            <li>JavaScript</li>
+      </ul>
+        <p>Explore and draw inspiration with random pieces of art from The Metropolitan Museum of New York's collection!</p>
+    </td>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/borjamarticalvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borjamarticalvo" height="30" width="40" /></a>
