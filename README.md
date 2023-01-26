@@ -25,7 +25,7 @@
           <h3 class="projectTitle">Art Dose</h3>
           <br />
           <a target="_blank" href="https://borjamarti.github.io/artDose/" align="center">
-            <img src="assets/artDose.gif" width="50%" alt="Gif showing app functionality and design."/>
+            <img src="assets/artDose.gif" height="187.5px" alt="Gif showing app functionality and design."/>
           </a>
           <div>
               <a href="https://borjamarti.github.io/artDose/" target="_blank"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
