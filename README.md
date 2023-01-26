@@ -19,26 +19,20 @@
 
 <h2>Project Showcase</h2>
 <table bordercolor="#66b2b2">
-  
   <tr>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Art Dose</h3>
-        <br />
-        <a target="_blank" href="https://borjamarti.github.io/artDose/" align="center">
+    <td class="project">
+          <h3 class="projectTitle">Art Dose</h3>
+          <a target="_blank" href="https://borjamarti.github.io/artDose/" align="center">
             <img src="assets/artDose.gif" width="50%" alt="Gif showing app functionality and design."/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/borjaMarti/artDose" target="_blank">
-    <img width="30px" src="assets/github-svgrepo-com.svg"/>
-  </a>  
-  <a href="https://borjamarti.github.io/artDose/" target="_blank">
-    <img width="30px" src="assets/new-window-svgrepo-com.svg"/>
-  </a>
-      </p>
-      <ul font-variant="smallcaps">
+          </a>
+          <ul class="techStack">
             <li>JavaScript</li>
-      </ul>
-        <span>Explore and draw inspiration with random pieces of art from The Metropolitan Museum of New York's collection!</span>
-    </td>
+          </ul>
+          <ul class="projectLinks">
+            <li list-style-type="none"><a href="https://borjamarti.github.io/artDose/" target="_blank"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a></li>
+            <li list-style-type="none"><a href="https://github.com/borjaMarti/artDose" target="_blank"><img width="30px" src="assets/github-svgrepo-com.svg"/></a></li>
+          </ul>
+          <span>Explore and draw inspiration with random pieces of art from The Metropolitan Museum of New York's collection!</span>
+        </td>
+  </tr>
+  </table>
