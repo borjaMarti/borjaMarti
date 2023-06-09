@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Borja</h1>
 <h3 align="center">a Full-Stack Web Developer from Spain 🇪🇸.</h3>
 
-- 🔭 I’m currently working on **EduCard, an educational web app for helping teachers develop their students' active recall and spaced repetition.**
+- 🔭 I’m currently working on **EduCard, an educational web app for helping teachers develop their students' active recall and spaced repetition**.
 
-- 📚 I’m also learning **Next.js**
+- 📚 I’m also learning **Next.js**.
 
-- 💻 All of my projects are available at [https://borjamarti.netlify.app/](https://borjamarti.netlify.app/)
+- 💻 All of my projects are available here: [https://borjamarti.netlify.app/](https://borjamarti.netlify.app/)
 
 - 📫 You can reach me at **borjamarti@outlook.com**
 
