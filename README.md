@@ -11,11 +11,6 @@
 
 - 👨‍🏫 And if you want to learn more about MVC, check out [my lecture](https://github.com/borjaMarti/mvc-lecture)!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/borjamarticalvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borjamarticalvo" height="30" width="30" /></a>
-</p>
-
 <h3 align="left">Tech Stack:</h3>
 <p align="left" > <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/html5.svg" alt="html5" width="55" height="55"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/css3.svg" alt="css3" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="assets/javascript.svg" alt="javascript" width="55" height="55"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/git.svg" alt="git" width="55" height="55"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="assets/nodejs.svg" alt="nodejs" width="55" height="55"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="assets/express.svg" alt="express" width="55" height="55"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="assets/mongodb.svg" alt="mongodb" width="55" height="55"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="assets/nextjs.svg" alt="nextjs" width="55" height="55"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="assets/react.svg" alt="react" width="55" height="55"/> </a> </p>
 
