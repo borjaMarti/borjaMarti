@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Borja</h1>
 <h3 align="center">a Full-Stack Web Developer from Spain 🇪🇸.</h3>
 
-- 🔭 I’m currently working on **EduCard, an educational web app for helping teachers develop their students' active recall and spaced repetition**.
+- 🔭 I’m currently working on **EduCard, a web app for helping teachers develop their students' active recall and spaced repetition**.
 
 - 📚 I’m also learning **Next.js**.
 
@@ -13,10 +13,10 @@
 
 <h2>Project Showcase</h2>
 <br />
-<table bordercolor="#66b2b2" align="center">
+<table>
   <tr>
     <td align="center" width="50%">
-      <h3 class="projectTitle">Art Dose</h3>
+      <h3>Art Dose</h3>
       <br />
       <a target="_blank" href="https://borjamarti.github.io/artDose/" align="center">
         <img src="assets/art-dose.gif" height="187.5px" alt="Gif showing app functionality and design."/>
@@ -33,7 +33,7 @@
       <br />
     </td>
     <td align="center" width="50%">
-      <h3 class="projectTitle">Would You Rather</h3>
+      <h3>Would You Rather</h3>
       <br />
       <a target="_blank" href="https://github.com/Gonpassa/would_you_rather" align="center">
         <img src="assets/wyr.gif" height="187.5px" alt="Gif showing app functionality and design."/>
@@ -54,7 +54,7 @@
 
 <h3 align="center">My Tech Stack:</h3>
 <br />
-<p align="center" >
+<div align="center" >
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="assets/html5.svg" alt="html5" width="55" height="55"/>
   </a> 
@@ -82,4 +82,4 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="assets/react.svg" alt="react" width="55" height="55"/>
   </a> 
-</p>
+</div>
