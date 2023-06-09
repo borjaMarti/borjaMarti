@@ -47,7 +47,7 @@
               <a href="https://github.com/Gonpassa/would_you_rather" target="_blank"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
           </div>
             <br />
-          Play an online game of Would you Rather! See what other people voted, leave comments on the questions, and create your own.
+          Play an online game of Would you Rather! See other people's votes, leave comments on the questions, and create your own.
         </td>
   </tr>
   </table>
