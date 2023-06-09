@@ -18,7 +18,7 @@
     <td align="center">
       <h3>Art Dose</h3>
       <br />
-      <a href="https://borjamarti.github.io/artDose/" align="center">
+      <a href="https://borjamarti.github.io/art-dose/" align="center">
         <img src="assets/art-dose.gif" height="187.5px" alt="Gif showing app functionality and design."/>
       </a>
       <div>
