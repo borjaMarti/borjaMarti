@@ -23,8 +23,8 @@
       </a>
       <div>
         <br />
-        <a href="https://borjamarti.github.io/artDose/" target="_blank"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
-        <a href="https://github.com/borjaMarti/artDose" target="_blank"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
+        <a href="https://borjamarti.github.io/art-dose/" target="_blank"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
+        <a href="https://github.com/borjaMarti/art-dose" target="_blank"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
       </div>
       <br />
       <p>
