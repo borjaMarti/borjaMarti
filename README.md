@@ -9,6 +9,8 @@
 
 - 📫 You can reach me at **borjamarti@outlook.com**
 
+- 👨‍🏫 And if you want to learn more about MVC, check out [my lecture](https://github.com/borjaMarti/mvc-lecture)!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/borjamarticalvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borjamarticalvo" height="30" width="40" /></a>
@@ -34,5 +36,20 @@
             <br />
           Explore and draw inspiration with random pieces of art from<br>The Metropolitan Museum of New York's collection!
         </td>
+    <td align="center">
+          <h3 class="projectTitle">Would You Rather</h3>
+          <br />
+          <a target="_blank" href="https://github.com/Gonpassa/would_you_rather" align="center">
+            <img src="assets/wyr.gif" height="187.5px" alt="Gif showing app functionality and design."/>
+          </a>
+          <div>
+              <a href="https://github.com/Gonpassa/would_you_rather" target="_blank"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
+              <a href="https://github.com/Gonpassa/would_you_rather" target="_blank"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
+          </div>
+            <br />
+          Play an online game of Would you Rather! See what other people voted, leave comments on the questions, and create your own.
+        </td>
   </tr>
   </table>
+
+
