@@ -23,7 +23,7 @@
 <br>
 <table bordercolor="#66b2b2" align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
           <h3 class="projectTitle">Art Dose</h3>
           <br />
           <a target="_blank" href="https://borjamarti.github.io/artDose/" align="center">
@@ -36,7 +36,7 @@
             <br />
           Explore and draw inspiration with random pieces of art from<br>The Metropolitan Museum of New York's collection!
         </td>
-    <td align="center">
+    <td align="center" width="50%">
           <h3 class="projectTitle">Would You Rather</h3>
           <br />
           <a target="_blank" href="https://github.com/Gonpassa/would_you_rather" align="center">
