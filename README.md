@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EduCard, an educational web app for helping teachers develop their students' active recall and spaced repetition.**
 
-- 📚 I’m currently learning **Next.js**
+- 📚 I’m also learning **Next.js**
 
 - 💻 All of my projects are available at [https://borjamarti.netlify.app/](https://borjamarti.netlify.app/)
 
