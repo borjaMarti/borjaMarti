@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Borja</h1>
 <h3 align="center">a Full-Stack Web Developer from Spain 🇪🇸.</h3>
+<br />
 
 - 🔭 I’m currently working on **EduCard, a web app for helping teachers develop their students' active recall and spaced repetition**.
 
@@ -10,7 +11,7 @@
 - 📫 You can reach me at **borjamarti@outlook.com**
 
 - 👨‍🏫 And if you want to learn more about MVC, check out [my lecture](https://github.com/borjaMarti/mvc-lecture)!
-
+<br /> 
 <h2>Project Showcase</h2>
 <br />
 <table style="overflow-x: scroll">
@@ -51,7 +52,7 @@
     </td>
   </tr>
 </table>
-
+<br />
 <h3 align="center">My Tech Stack:</h3>
 <br />
 <div align="center" >
