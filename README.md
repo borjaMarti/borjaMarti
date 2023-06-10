@@ -41,7 +41,7 @@
       </a>
       <div>
         <br />
-        <a href="https://github.com/Gonpassa/would_you_rather"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
+        <a href="https://would-you-rather-adfe.onrender.com/"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
         <a href="https://github.com/Gonpassa/would_you_rather"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
       </div>
       <br />
