@@ -57,30 +57,30 @@
 <br />
 <div align="center" >
   <a href="https://www.w3.org/html/" rel="noreferrer">
-    <img src="assets/html5.svg" alt="html5" width="55" height="55"/>
+    <img src="assets/HTML.svg" alt="html5" width="55" height="55"/>
   </a> 
   <a href="https://www.w3schools.com/css/" rel="noreferrer">
-    <img src="assets/css3.svg" alt="css3" width="55" height="55"/>
+    <img src="assets/CSS.svg" alt="css3" width="55" height="55"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
-    <img src="assets/javascript.svg" alt="javascript" width="55" height="55"/>
+    <img src="assets/JavaScript.svg" alt="javascript" width="55" height="55"/>
   </a>
   <a href="https://git-scm.com/" rel="noreferrer">
-    <img src="assets/git.svg" alt="git" width="55" height="55"/>
+    <img src="assets/Git.svg" alt="git" width="55" height="55"/>
   </a>
   <a href="https://nodejs.org" rel="noreferrer">
-    <img src="assets/nodejs.svg" alt="nodejs" width="55" height="55"/>
+    <img src="assets/NodeJS-Light.svg" alt="nodejs" width="55" height="55"/>
   </a>
   <a href="https://expressjs.com" rel="noreferrer">
-    <img src="assets/express.svg" alt="express" width="55" height="55"/>
+    <img src="assets/ExpressJS-Light.svg" alt="express" width="55" height="55"/>
   </a>
   <a href="https://www.mongodb.com/" rel="noreferrer">
-    <img src="assets/mongodb.svg" alt="mongodb" width="55" height="55"/>
+    <img src="assets/MongoDB.svg" alt="mongodb" width="55" height="55"/>
   </a>
   <a href="https://nextjs.org/" rel="noreferrer">
-    <img src="assets/nextjs.svg" alt="nextjs" width="55" height="55"/>
+    <img src="assets/NextJS-Light.svg" alt="nextjs" width="55" height="55"/>
   </a>
   <a href="https://reactjs.org/" rel="noreferrer">
-    <img src="assets/react.svg" alt="react" width="55" height="55"/>
+    <img src="assets/React-Light.svg" alt="react" width="55" height="55"/>
   </a> 
 </div>
