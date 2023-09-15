@@ -6,7 +6,7 @@
 
 - 📚 I’m also learning **Next.js**.
 
-- 💻 More info about me and my projects here: [https://borjamarti.dev](https://borjamarti.dev)
+- 💻 More info about me and my projects here: [borjamarti.dev](https://borjamarti.dev)
 
 - 📫 You can reach me at **borjamarti@outlook.com**
 
