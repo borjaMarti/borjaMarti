@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **borjamarti@outlook.com**
 
-- 👨‍🏫 And if you want to learn more about MVC, check out [my lecture](https://github.com/borjaMarti/mvc-lecture)!
+- 👨‍🏫 And if you want to learn more about MVC, check out [my lecture](https://www.youtube.com/watch?v=SIHGbcEUIAU)!
 <br /> 
 <h2>Project Showcase</h2>
 <br />
