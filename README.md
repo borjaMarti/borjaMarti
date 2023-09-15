@@ -65,8 +65,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
     <img src="assets/JavaScript.svg" alt="javascript" width="55" height="55"/>
   </a>
-  <a href="https://git-scm.com/" rel="noreferrer">
-    <img src="assets/Git.svg" alt="git" width="55" height="55"/>
+  <a href="https://reactjs.org/" rel="noreferrer">
+    <img src="assets/React-Light.svg" alt="react" width="55" height="55"/>
+  </a> 
+  <a href="https://nextjs.org/" rel="noreferrer">
+    <img src="assets/NextJS-Light.svg" alt="nextjs" width="55" height="55"/>
   </a>
   <a href="https://nodejs.org" rel="noreferrer">
     <img src="assets/NodeJS-Light.svg" alt="nodejs" width="55" height="55"/>
@@ -77,10 +80,7 @@
   <a href="https://www.mongodb.com/" rel="noreferrer">
     <img src="assets/MongoDB.svg" alt="mongodb" width="55" height="55"/>
   </a>
-  <a href="https://nextjs.org/" rel="noreferrer">
-    <img src="assets/NextJS-Light.svg" alt="nextjs" width="55" height="55"/>
+  <a href="https://git-scm.com/" rel="noreferrer">
+    <img src="assets/Git.svg" alt="git" width="55" height="55"/>
   </a>
-  <a href="https://reactjs.org/" rel="noreferrer">
-    <img src="assets/React-Light.svg" alt="react" width="55" height="55"/>
-  </a> 
 </div>
