@@ -2,9 +2,9 @@
 <h3 align="center">a Full-Stack Web Developer from Spain 🇪🇸.</h3>
 <br />
 
-- 🔭 I’m currently working on **EduCard, a web app for helping teachers develop their students' active recall and spaced repetition**.
+- 🔭 I’m currently working on **[EduCard](https://github.com/borjaMarti/educard), a web app for helping teachers develop their students' active recall and spaced repetition habits through the use of flashcards**.
 
-- 📚 I’m also learning **Next.js**.
+- 📚 I’m also learning **TypeScript**.
 
 - 💻 More info about me and my projects here: [borjamarti.dev](https://borjamarti.dev)
 
