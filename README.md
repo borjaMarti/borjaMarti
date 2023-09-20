@@ -46,7 +46,7 @@
       </div>
       <br />
       <p>
-        Play an online game of Would you Rather! See other people's votes, leave comments on the questions, and create your own.
+        Play an online game of Would you Rather! See other people's votes, leave comments on the questions, create your own - have fun!
       </p>
       <br />
     </td>
