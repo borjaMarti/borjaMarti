@@ -19,34 +19,17 @@
     <td align="center">
       <h3>Art Dose</h3>
       <br />
-      <a href="https://borjamarti.github.io/art-dose/" align="center">
-        <img src="assets/art-dose.gif" height="187.5px" alt="Gif showing app functionality and design."/>
+      <a href="https://github.com/borjaMarti/educard/" align="center">
+        <img src="assets/educard-showcase.gif" height="187.5px" alt="Gif showing app functionality and design."/>
       </a>
       <div>
         <br />
-        <a href="https://borjamarti.github.io/art-dose/"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
-        <a href="https://github.com/borjaMarti/art-dose"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
+        <a href="https://educard.es"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
+        <a href="https://github.com/borjaMarti/educard/"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
       </div>
       <br />
       <p>
-        Explore and draw inspiration with random pieces of art from The Metropolitan Museum of New York's collection!
-      </p>
-      <br />
-    </td>
-    <td align="center">
-      <h3>Would You Rather</h3>
-      <br />
-      <a href="https://github.com/Gonpassa/would_you_rather" align="center">
-        <img src="assets/wyr.gif" height="187.5px" alt="Gif showing app functionality and design."/>
-      </a>
-      <div>
-        <br />
-        <a href="https://would-you-rather-adfe.onrender.com/"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
-        <a href="https://github.com/Gonpassa/would_you_rather"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
-      </div>
-      <br />
-      <p>
-        Play an online game of Would you Rather! See other people's votes, leave comments on the questions, and create your own.
+        EduCard is a web application that helps teachers develop their students' active recall and spaced repetition habits by using flashcards.
       </p>
       <br />
     </td>
