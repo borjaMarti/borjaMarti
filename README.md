@@ -16,8 +16,8 @@
 <br />
 <table style="overflow-x: scroll">
   <tr>
-    <td align="center">
-      <h3>Art Dose</h3>
+   <td align="center">
+      <h3>EduCard</h3>
       <br />
       <a href="https://github.com/borjaMarti/educard/" align="center">
         <img src="assets/educard-showcase.gif" height="187.5px" alt="Gif showing app functionality and design."/>
@@ -30,6 +30,23 @@
       <br />
       <p>
         EduCard is a web application that helps teachers develop their students' active recall and spaced repetition habits by using flashcards.
+      </p>
+      <br />
+    </td>
+    <td align="center">
+      <h3>Would You Rather</h3>
+      <br />
+      <a href="https://github.com/Gonpassa/would_you_rather" align="center">
+        <img src="assets/wyr.gif" height="187.5px" alt="Gif showing app functionality and design."/>
+      </a>
+      <div>
+        <br />
+        <a href="https://would-you-rather-adfe.onrender.com/"><img width="30px" src="assets/new-window-svgrepo-com.svg"/></a>
+        <a href="https://github.com/Gonpassa/would_you_rather"><img width="30px" src="assets/github-svgrepo-com.svg"/></a>
+      </div>
+      <br />
+      <p>
+        Play an online game of Would you Rather! See other people's votes, leave comments on the questions, and create your own.
       </p>
       <br />
     </td>
