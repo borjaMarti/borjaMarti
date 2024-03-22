@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[EduCard](https://github.com/borjaMarti/educard), a web app for helping teachers develop their students' active recall and spaced repetition habits through the use of flashcards**.
 
-- 📚 I’m also learning **TypeScript**.
+- 📚 I’m also learning **React Native**.
 
 - 💻 More info about me and my projects here: [borjamarti.dev](https://borjamarti.dev)
 
